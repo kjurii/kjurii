@@ -1,0 +1,16 @@
+.circle{
+width: 200px;
+	height: 200px;
+	border-radius: 100%;
+  line-height: 200px;
+	float: cneter;
+	margin: auto;
+  text-align: center;
+  color: white;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.red{
+background-color: #f2331a; /*red*/
+}
